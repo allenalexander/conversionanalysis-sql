@@ -1,0 +1,7 @@
+order_id,user_id,product_id,quantity,order_status,order_date
+O001,U1,P101,1,completed,2025-06-01
+O002,U3,P101,1,completed,2025-06-02
+O003,U6,P103,1,returned,2025-06-03
+O004,U7,P102,1,cancelled,2025-06-03
+O005,U8,P104,2,completed,2025-06-04
+O006,U9,P104,1,returned,2025-06-05

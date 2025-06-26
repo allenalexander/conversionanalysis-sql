@@ -1,0 +1,13 @@
+user_id,session_id,activity_type,product_id,activity_timestamp
+U1,S1,view,P101,2025-06-01 10:00
+U1,S1,add_to_cart,P101,2025-06-01 10:05
+U1,S1,checkout,P101,2025-06-01 10:10
+U1,S1,purchase,P101,2025-06-01 10:15
+U2,S2,view,P102,2025-06-01 11:00
+U2,S2,view,P103,2025-06-01 11:05
+U3,S3,view,P101,2025-06-02 09:00
+U3,S3,add_to_cart,P101,2025-06-02 09:10
+U3,S3,checkout,P101,2025-06-02 09:20
+U3,S3,purchase,P101,2025-06-02 09:30
+U4,S4,view,P104,2025-06-02 13:00
+U5,S5,view,P104,2025-06-03 14:00

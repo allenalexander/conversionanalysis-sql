@@ -1,0 +1,6 @@
+product_id,category,price,stock_qty,is_active
+P101,Electronics,4999,50,1
+P102,Apparel,799,200,1
+P103,Apparel,899,150,1
+P104,Home,1299,80,1
+P105,Electronics,9999,30,1
